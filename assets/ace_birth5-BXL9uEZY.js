@@ -1,0 +1,1 @@
+const t="/sim_test/assets/ace_birth5-BobjtC2l.png";export{t as default};

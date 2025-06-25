@@ -1,0 +1,1 @@
+const t="/sim_test/assets/azul_birth2-BHMp8piX.png";export{t as default};
